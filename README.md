@@ -91,7 +91,14 @@ docs/ - Reports, presentations and screenshots
 * Mobile Application Support
 
 ---
+## Author
+
+A Pardhav Reddy
+
+B.Tech – Artificial Intelligence (Cyber Physical Systems & Security)
+
+Amrita Vishwa Vidyapeetham
 
 ## License
 
-This project is developed for educational and research purposes.
+This project is licensed under the MIT License.
